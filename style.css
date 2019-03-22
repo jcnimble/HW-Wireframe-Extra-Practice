@@ -67,6 +67,18 @@ div.inline p{
     display: inline;
         }
 
+.red {
+    background: red;
+}
+
+.blue {
+    background: blue;
+}
+
+.green {
+    background: green;
+}
+
 #paragraph {
     color: #777;
     background:#ebebeb;
